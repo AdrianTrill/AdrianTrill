@@ -1,4 +1,4 @@
-# Hi 👋, I'm Cristian
+# Hi 👋, I'm Adrian
 
 ## 🚀 About Me
 I'm a **Computer Science student** at [Babes-Bolyai University](https://www.ubbcluj.ro/) in Cluj-Napoca, Romania 🇷🇴.  
