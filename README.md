@@ -5,7 +5,9 @@
 ## 🚀 About Me
 I'm a **Computer Science student** at [Babes-Bolyai University](https://www.ubbcluj.ro/) in Cluj-Napoca, Romania 🇷🇴.  
 I'm passionate about **machine learning, AI, algorithms, backend systems, and infrastructure software engineering**.  
-I love **making video games 🎮**, and I've developed multiple projects in **C++, Python, and Unity**.
+I have a deep passion for **machine learning and AI 🤖**, and outside of coding, I enjoy **hitting the gym 🏋️ and riding motorcycles 🏍️**, constantly exploring ways to integrate intelligent systems into real-world applications. 
+I've developed multiple projects in **C++, Python, and deep learning frameworks like TensorFlow and PyTorch**.
+
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
