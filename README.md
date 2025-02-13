@@ -97,6 +97,6 @@ I love **making video games 🎮**, and I've developed multiple projects in **C+
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/adrian-mititean-56517432b/))
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adriantrill707@gmail.com)
-[![Instagram]([https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername](https://www.instagram.com/adrian.trill/))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adrian.trill/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdrianTrill)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://adriantrill.itch.io/)
