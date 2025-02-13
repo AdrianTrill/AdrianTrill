@@ -95,11 +95,11 @@ Outside of coding, I enjoy **hitting the gym 🏋️ and riding motorcycles 🏍
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
 
 ## 🎯 Interests
-- 🕹 **Game Development** (Unity, Godot, Unreal Engine)
 - 🔧 **Backend Development** (Databases, Networking, Algorithms)
 - ⚡ **Competitive Programming** (Data Structures & Algorithms)
 - 🚀 **Machine Learning & AI** (Deep Learning, Reinforcement Learning, Neural Networks)
 - 📊 **Data Science** (Data Analysis, Predictive Modeling, Big Data)
+- 🕹 **Game Development** (Unity, Godot, Unreal Engine)
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/adrian-mititean-56517432b/))
