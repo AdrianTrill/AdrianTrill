@@ -1,5 +1,7 @@
 # Hi 👋, I'm Adrian
 
+![Profile Views](https://komarev.com/ghpvc/?username=AdrianTrill&color=blue)
+
 ## 🚀 About Me
 I'm a **Computer Science student** at [Babes-Bolyai University](https://www.ubbcluj.ro/) in Cluj-Napoca, Romania 🇷🇴.  
 I'm passionate about **machine learning, AI, algorithms, backend systems, and infrastructure software engineering**.  
