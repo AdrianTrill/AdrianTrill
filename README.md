@@ -15,8 +15,7 @@ Outside of coding, I enjoy **hitting the gym 🏋️ and riding motorcycles 🏍
 
 
 ## 📊 GitHub Stats
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=darkcache_seconds=10)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark&cache_seconds=10
-)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=darkcache_seconds=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
