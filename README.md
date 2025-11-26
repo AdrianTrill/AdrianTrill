@@ -98,7 +98,7 @@ Outside of coding, I enjoy **hitting the gym 🏋️ and riding motorcycles 🏍
 ## 🎯 Interests
 - 🔧 **Backend Development** (Databases, Networking, Algorithms)
 - ⚡ **Competitive Programming** (Data Structures & Algorithms)
-- 🚀 **Machine Learning & AI** (Deep Learning, Reinforcement Learning, Neural Networks)
+- 🚀 **Machine Learning & AI** (Deep Learning, Reinforcement Learning, Neural Networks, Computer Vision)
 - 📊 **Data Science** (Data Analysis, Predictive Modeling, Big Data)
 - 🕹 **Game Development** (Unity, Godot, Unreal Engine)
 
