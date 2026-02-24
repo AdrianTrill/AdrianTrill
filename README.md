@@ -14,7 +14,7 @@ I've developed multiple projects in **C++, Python, and deep learning frameworks 
 Outside of coding, I enjoy **hitting the gym 🏋️ and riding motorcycles 🏍️**.
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark&cache_seconds=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
