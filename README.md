@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AdrianTrill&color=blue)
 
 ## 🚀 About Me
-I'm a software engineer on the AI team at **Computacenter** in Cluj-Napoca, Romania 🇷🇴. I have a Computer Science degree from [Babeș-Bolyai University](https://www.ubbcluj.ro/) and I'm now doing a Master's in Artificial Intelligence there.
+I'm a software engineer on the AI team at **Computacenter** in Cluj-Napoca, Romania. I have a Computer Science degree from [Babeș-Bolyai University](https://www.ubbcluj.ro/) and I'm now doing a Master's in Artificial Intelligence there.
 
 I build LLM agents, RAG pipelines, and the backend and infrastructure around them. Most of my work is about making AI reliable, which means grounding answers in real data, measuring quality properly, and keeping a human in the loop for decisions that matter.
 
