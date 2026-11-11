@@ -104,12 +104,8 @@ I build LLM agents, RAG pipelines, and the backend and infrastructure around the
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AdrianTrill&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues,contribs&hide_rank=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,tex,css&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdrianTrill&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AdrianTrill&theme=dark&hide_border=true&v=2" alt="GitHub streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,tex,css&langs_count=6&v=2" alt="Top languages" />
 </p>
 
 ## 🎯 Interests
