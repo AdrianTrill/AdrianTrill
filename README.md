@@ -46,28 +46,70 @@ I build LLM agents, RAG pipelines, and the backend and infrastructure around the
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,ts,js,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nextjs,react,nodejs,tailwind,postgres,redis,mongodb,mysql,sqlite,docker,kubernetes,azure,gcp,terraform,githubactions,linux,git,cmake,qt,unity,godot,unreal&perline=12" alt="Tech stack" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br><sub><b>C#</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br><sub><b>Bash</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/nvidia-dark.svg" width="48" height="48" alt="NVIDIA NIM" /><br><sub><b>NVIDIA NIM</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/huggingface-dark.svg" width="48" height="48" alt="Hugging Face" /><br><sub><b>Hugging Face</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/langchain-dark.svg" width="48" height="48" alt="LangGraph" /><br><sub><b>LangGraph</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/ollama-dark.svg" width="48" height="48" alt="Ollama" /><br><sub><b>Ollama</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br><sub><b>Redis</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><sub><b>SQLite</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@main/assets/milvus-dark.svg" width="48" height="48" alt="Milvus" /><br><sub><b>Milvus</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br><sub><b>Azure</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br><sub><b>GCP</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br><sub><b>Terraform</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br><sub><b>GitHub Actions</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" /><br><sub><b>CMake</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt" /><br><sub><b>Qt</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br><sub><b>Unity</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" /><br><sub><b>Godot</b></sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
-  <img src="https://img.shields.io/badge/NeMo_Agent_Toolkit-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NeMo Agent Toolkit" />
-  <img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NeMo Guardrails" />
-  <img src="https://img.shields.io/badge/cuOpt-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="cuOpt" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" alt="Milvus" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
-</p>
+<p align="center"><sub>Also: NeMo Agent Toolkit, NeMo Guardrails, cuOpt, OpenAI, ChromaDB, Unreal Engine</sub></p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AdrianTrill&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AdrianTrill&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues,contribs&hide_rank=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianTrill&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,tex,css&langs_count=6" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdrianTrill&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 🎯 Interests
