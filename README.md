@@ -115,10 +115,20 @@ I build LLM agents, RAG pipelines, and the backend and infrastructure around the
 - ⚙️ **Backend & Systems**: distributed systems, low-latency C++, algorithms
 - 🕹 **Game Development**: Unity, Godot, Unreal Engine ([itch.io](https://adriantrill.itch.io/))
 
+## ⚡ Competitive Programming
+
+850+ problems solved across pbinfo, Codeforces, and Infoarena, plus Beecrowd.
+
+<p align="left">
+  <a href="https://www.pbinfo.ro/profil/AdrianTrill"><img src="https://img.shields.io/badge/pbinfo-650_solved-2E7D32?style=flat-square" alt="pbinfo" /></a>
+  <a href="https://codeforces.com/profile/Adrian.Trill"><img src="https://img.shields.io/badge/Codeforces-162_solved-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.infoarena.ro/utilizator/Adrian.Trill?action=stats"><img src="https://img.shields.io/badge/Infoarena-49_solved-4A90E2?style=flat-square" alt="Infoarena" /></a>
+  <a href="https://judge.beecrowd.com/en/users/statistics/402555"><img src="https://img.shields.io/badge/Beecrowd-profile-6A1B9A?style=flat-square" alt="Beecrowd" /></a>
+</p>
+
 ## 📫 More of Me
 
 <p align="left">
   <a href="https://www.instagram.com/adrian.trill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://adriantrill.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
-  <a href="https://codeforces.com/profile/Adrian.Trill"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
