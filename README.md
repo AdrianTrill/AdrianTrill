@@ -117,13 +117,13 @@ I build LLM agents, RAG pipelines, and the backend and infrastructure around the
 
 ## ⚡ Competitive Programming
 
-850+ problems solved across pbinfo, Codeforces, and Infoarena, plus Beecrowd.
+1000+ problems solved across pbinfo, Codeforces, and Infoarena, plus Beecrowd.
 
 <p align="left">
   <a href="https://www.pbinfo.ro/profil/AdrianTrill"><img src="https://img.shields.io/badge/pbinfo-650_solved-2E7D32?style=flat-square" alt="pbinfo" /></a>
   <a href="https://codeforces.com/profile/Adrian.Trill"><img src="https://img.shields.io/badge/Codeforces-162_solved-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://www.infoarena.ro/utilizator/Adrian.Trill?action=stats"><img src="https://img.shields.io/badge/Infoarena-49_solved-4A90E2?style=flat-square" alt="Infoarena" /></a>
-  <a href="https://judge.beecrowd.com/en/users/statistics/402555"><img src="https://img.shields.io/badge/Beecrowd-profile-6A1B9A?style=flat-square" alt="Beecrowd" /></a>
+  <a href="https://judge.beecrowd.com/en/users/statistics/402555"><img src="https://img.shields.io/badge/Beecrowd-230_solved-6A1B9A?style=flat-square" alt="Beecrowd" /></a>
 </p>
 
 ## 📫 More of Me
