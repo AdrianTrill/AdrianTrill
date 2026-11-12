@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AdrianTrill">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+engineer+on+the+Computacenter+AI+team;Building+multi-agent+systems+and+RAG+pipelines;Master%27s+student+in+Artificial+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=76B900&center=true&vCenter=true&width=760&height=50&lines=Software+Engineer+on+the+Computacenter+AI+team;Building+multi-agent+systems+on+NVIDIA+NIM+and+NeMo;Agents+%E2%80%A2+RAG+%E2%80%A2+LLM+evaluation+%E2%80%A2+Guardrails;MSc+student+in+Artificial+Intelligence" alt="Typing SVG" />
   </a>
 </p>
 
