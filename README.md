@@ -129,6 +129,8 @@ I build LLM agents, RAG pipelines, and the backend and infrastructure around the
 ## 📫 More of Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/adrian-mititean-56517432b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adriantrill707@gmail.com"><img src="https://img.shields.io/badge/Email-adriantrill707%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/adrian.trill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://adriantrill.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
 </p>
