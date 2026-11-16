@@ -37,6 +37,7 @@ I build LLM agents, RAG pipelines, and the backend and infrastructure around the
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Agentic SOC**](https://github.com/Chris91ss/ai4ci-agentic-soc) | Security operations center where ML detectors and a local LLM agent investigate and contain attacks on a simulated company (AI4CI team project) | Python, LightGBM, Ollama, Next.js |
 | [**LungScan**](https://github.com/AdrianTrill/LungScan) | 3D lung nodule segmentation in CT scans with a self-supervised transformer (0.82 Dice), served through a web app | PyTorch, FastAPI, Next.js |
 | [**Log Anomaly Detection**](https://github.com/AdrianTrill/Log-Anomaly-Detection) | LogBERT and Transformer models that flag anomalous system logs, reaching up to 99.6% F1 | PyTorch, FastAPI, Next.js |
 | [**License Plate Recognition**](https://github.com/AdrianTrill/License-Plate-Recognition) | Real-time plate detection and OCR with YOLOv3, OpenCV DNN, and Tesseract | C++, OpenCV |
